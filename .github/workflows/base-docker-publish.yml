@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
 
 env:
-  REGISTRY_IMAGE: mlikiowa/napcat-docker
+  REGISTRY_IMAGE: registry.cn-hangzhou.aliyuncs.com/lixibi/napcat-docker
 
 jobs:
   build:
